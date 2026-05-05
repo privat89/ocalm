@@ -1,0 +1,9 @@
+Django==5.2.13
+pillow==11.2.1
+gunicorn==23.0.0
+whitenoise==6.9.0
+django-cors-headers==4.7.0
+djangorestframework==3.16.2
+markdown==3.9
+django-phonenumber-field==8.0.0
+phonenumbers==9.0.1
